@@ -1,1 +1,1 @@
-# supervised-learning-algorithem
+# supervised-learning-algorithems
